@@ -30,6 +30,6 @@ chmod 755 ./license_list_maker.sh
 deactivate
 ```
 
-Copyright (c) 2023 KJMAN678
-Released under the MIT license
+Copyright (c) 2023 KJMAN678  
+Released under the MIT license  
 https://opensource.org/licenses/mit-license.php
